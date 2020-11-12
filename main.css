@@ -80,7 +80,7 @@ p {
   text-align: center;
 }
 
-/* -----------商品----------- */
+/* -----------商品 git pull----------- */
 .products {
   display: grid;
   grid-gap: var(--base-padding);
